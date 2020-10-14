@@ -1,0 +1,49 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-aea4967606b3c4f38c3b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-gatsby-plugin-offline-app-shell-js-23a7fd7af64eca5676b2.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.75fd2a98a15dd754feee.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-9411612e31e4f14527d1.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-footmen-js-109dc0458677c2d9135b.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-c0da4ca5cac66b1d864b.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-256fdde5199f9087be1b.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-5a6283060e24f4e791d1.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/
+  Link: </webpack-runtime-c0da4ca5cac66b1d864b.js>; rel=preload; as=script
+  Link: </framework-256fdde5199f9087be1b.js>; rel=preload; as=script
+  Link: </app-5a6283060e24f4e791d1.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-aea4967606b3c4f38c3b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-c0da4ca5cac66b1d864b.js>; rel=preload; as=script
+  Link: </framework-256fdde5199f9087be1b.js>; rel=preload; as=script
+  Link: </app-5a6283060e24f4e791d1.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-23a7fd7af64eca5676b2.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/footmen/
+  Link: </webpack-runtime-c0da4ca5cac66b1d864b.js>; rel=preload; as=script
+  Link: </framework-256fdde5199f9087be1b.js>; rel=preload; as=script
+  Link: </app-5a6283060e24f4e791d1.js>; rel=preload; as=script
+  Link: </styles-9411612e31e4f14527d1.js>; rel=preload; as=script
+  Link: </component---src-pages-footmen-js-109dc0458677c2d9135b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/footmen/page-data.json>; rel=preload; as=fetch; crossorigin
