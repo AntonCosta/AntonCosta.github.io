@@ -5,45 +5,65 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
-/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-aea4967606b3c4f38c3b.js
+/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-4941b498287c92033ba3.js
   Cache-Control: public, max-age=31536000, immutable
-/component---node-modules-gatsby-plugin-offline-app-shell-js-23a7fd7af64eca5676b2.js
+/component---node-modules-gatsby-plugin-offline-app-shell-js-eec87b46525379af865f.js
   Cache-Control: public, max-age=31536000, immutable
-/styles.75fd2a98a15dd754feee.css
+/styles.2170064b65ea1e7a6b6b.css
   Cache-Control: public, max-age=31536000, immutable
-/styles-9411612e31e4f14527d1.js
+/styles-407fe62976dc5310c43e.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-footmen-js-109dc0458677c2d9135b.js
+/component---src-pages-footmen-js-00eb8dc85c71fa539e50.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-c0da4ca5cac66b1d864b.js
+/component---src-pages-musicplatformer-js-6b54748dc2f8097e3195.js
   Cache-Control: public, max-age=31536000, immutable
-/framework-256fdde5199f9087be1b.js
+/component---src-pages-solitaireexpert-js-f5fee73474a501657d3b.js
   Cache-Control: public, max-age=31536000, immutable
-/app-5a6283060e24f4e791d1.js
+/webpack-runtime-b9836bb6aaebb3eb0513.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-e2d419ac45d8ae41957a.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-b928c38e48f2693b86d3.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
 /
-  Link: </webpack-runtime-c0da4ca5cac66b1d864b.js>; rel=preload; as=script
-  Link: </framework-256fdde5199f9087be1b.js>; rel=preload; as=script
-  Link: </app-5a6283060e24f4e791d1.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-aea4967606b3c4f38c3b.js>; rel=preload; as=script
+  Link: </webpack-runtime-b9836bb6aaebb3eb0513.js>; rel=preload; as=script
+  Link: </framework-e2d419ac45d8ae41957a.js>; rel=preload; as=script
+  Link: </app-b928c38e48f2693b86d3.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-4941b498287c92033ba3.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-c0da4ca5cac66b1d864b.js>; rel=preload; as=script
-  Link: </framework-256fdde5199f9087be1b.js>; rel=preload; as=script
-  Link: </app-5a6283060e24f4e791d1.js>; rel=preload; as=script
-  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-23a7fd7af64eca5676b2.js>; rel=preload; as=script
+  Link: </webpack-runtime-b9836bb6aaebb3eb0513.js>; rel=preload; as=script
+  Link: </framework-e2d419ac45d8ae41957a.js>; rel=preload; as=script
+  Link: </app-b928c38e48f2693b86d3.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-eec87b46525379af865f.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
 /footmen/
-  Link: </webpack-runtime-c0da4ca5cac66b1d864b.js>; rel=preload; as=script
-  Link: </framework-256fdde5199f9087be1b.js>; rel=preload; as=script
-  Link: </app-5a6283060e24f4e791d1.js>; rel=preload; as=script
-  Link: </styles-9411612e31e4f14527d1.js>; rel=preload; as=script
-  Link: </component---src-pages-footmen-js-109dc0458677c2d9135b.js>; rel=preload; as=script
+  Link: </webpack-runtime-b9836bb6aaebb3eb0513.js>; rel=preload; as=script
+  Link: </framework-e2d419ac45d8ae41957a.js>; rel=preload; as=script
+  Link: </app-b928c38e48f2693b86d3.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </component---src-pages-footmen-js-00eb8dc85c71fa539e50.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/footmen/page-data.json>; rel=preload; as=fetch; crossorigin
+/musicplatformer/
+  Link: </webpack-runtime-b9836bb6aaebb3eb0513.js>; rel=preload; as=script
+  Link: </framework-e2d419ac45d8ae41957a.js>; rel=preload; as=script
+  Link: </app-b928c38e48f2693b86d3.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </component---src-pages-musicplatformer-js-6b54748dc2f8097e3195.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/musicplatformer/page-data.json>; rel=preload; as=fetch; crossorigin
+/solitaireexpert/
+  Link: </webpack-runtime-b9836bb6aaebb3eb0513.js>; rel=preload; as=script
+  Link: </framework-e2d419ac45d8ae41957a.js>; rel=preload; as=script
+  Link: </app-b928c38e48f2693b86d3.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </component---src-pages-solitaireexpert-js-f5fee73474a501657d3b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/solitaireexpert/page-data.json>; rel=preload; as=fetch; crossorigin
