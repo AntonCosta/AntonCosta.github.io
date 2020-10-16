@@ -1,6 +1,8 @@
 {
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
-  "static/image1.png": "static/image1-334796900711fa8ccd95dde982760309.png",
-  "static/image2.png": "static/image2-86ff5e53a9af1271b665def00f44908e.png"
+  "static/image1.png": "static/image1-f0379c4364c1164d7f43f1a960ff3748.png",
+  "static/image2.gif": "static/image2-d2ce6b847a06d6e58205a29eb314b427.gif",
+  "static/image2.png": "static/image2-86ff5e53a9af1271b665def00f44908e.png",
+  "static/image3.png": "static/image3-3669c46f8c72548f2bc3305f7016ce41.png"
 }
