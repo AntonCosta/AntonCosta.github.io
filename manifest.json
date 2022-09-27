@@ -1,6 +1,11 @@
 {
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
+  "static/1.png": "static/1-2e1b978cfe6a9cb3864a2d8ac07f479e.png",
+  "static/2.png": "static/2-b4c1145becd6de1994850b1611d582e8.png",
+  "static/3.png": "static/3-a1d5bb10083d685f241cedff23cda553.png",
+  "static/4.png": "static/4-c12adf0fb99d654638078fac312ec7b8.png",
+  "static/5.png": "static/5-4a641e1d574a0a0de99ce4d7828e6763.png",
   "static/image1.png": "static/image1-f0379c4364c1164d7f43f1a960ff3748.png",
   "static/image2.gif": "static/image2-d2ce6b847a06d6e58205a29eb314b427.gif",
   "static/image2.png": "static/image2-86ff5e53a9af1271b665def00f44908e.png",
