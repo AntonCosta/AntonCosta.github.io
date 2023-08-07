@@ -5,166 +5,166 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
-/c58bbf60efc9fe246c80b4f60452580755adaaa0-1e2847bb9ebf65c93fe8.js
+/c58bbf60efc9fe246c80b4f60452580755adaaa0-e7315001672641ecfb46.js
   Cache-Control: public, max-age=31536000, immutable
-/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-bbf91299a8dd7ccdb2b3.js
+/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-066f22070945cf74f240.js
   Cache-Control: public, max-age=31536000, immutable
-/component---node-modules-gatsby-plugin-offline-app-shell-js-0f40d706ebc58d78c1f6.js
+/component---node-modules-gatsby-plugin-offline-app-shell-js-d086a7e92e744d0c1873.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-404-js-e0bd216be6f366095538.js
+/component---src-pages-404-js-5b3f5d9bc84c71135430.js
   Cache-Control: public, max-age=31536000, immutable
-/styles.6e56d607b7ee97a0204c.css
+/styles.87efeb4c6522a2c9d550.css
   Cache-Control: public, max-age=31536000, immutable
-/styles-407fe62976dc5310c43e.js
+/styles-0ec71dd62c66cb95665c.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-bachelor-js-2af125d0ae9eaaad2439.js
+/component---src-pages-bachelor-js-448087e8da231693bc6f.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-card-game-js-650f4640ee8a2563da19.js
+/component---src-pages-card-game-js-955c0af81915a464ace8.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-dragonrpg-js-2c468ab574542d4541ec.js
+/component---src-pages-dragonrpg-js-e8d9e2c2a67a508a1d60.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-footmen-js-404fb99f233f62ce8d0b.js
+/component---src-pages-footmen-js-4a4fb8f7da8964f9e95e.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-minutehero-js-4309e8b12c5ce360f407.js
+/component---src-pages-minutehero-js-5fbff1b247b422093962.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-musicfractals-js-d753fe9c9cea0d66070c.js
+/component---src-pages-musicfractals-js-f28b5d55cbc65d770012.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-musicplatformer-js-2990817cd8f7946b286b.js
+/component---src-pages-musicplatformer-js-8f82e4c9de2ec72618ad.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-phobia-js-499546b75c113edb8bfb.js
+/component---src-pages-phobia-js-880d3914bec2c49a6d54.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-solitaireexpert-js-313f10cdbb8c66edeb43.js
+/component---src-pages-solitaireexpert-js-b2efb87e3974ab53b2fa.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-timeraiders-js-c95d7e783e2bdcce4802.js
+/component---src-pages-timeraiders-js-1f79964d4c493839873e.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-turncombat-js-843ee4d876f5533f896b.js
+/component---src-pages-turncombat-js-f6bc2fcbe0964b746c88.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-52254a6cd160ff2dc4a3.js
+/webpack-runtime-d506a490b4cb3162a49c.js
   Cache-Control: public, max-age=31536000, immutable
-/framework-caaca52af16d464f8089.js
+/framework-8f8cadd211f03ea7e319.js
   Cache-Control: public, max-age=31536000, immutable
-/app-8e5849a722a7af833de3.js
+/app-7051b2358802a4cf4d8d.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
 /
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </c58bbf60efc9fe246c80b4f60452580755adaaa0-1e2847bb9ebf65c93fe8.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-bbf91299a8dd7ccdb2b3.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </c58bbf60efc9fe246c80b4f60452580755adaaa0-e7315001672641ecfb46.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-066f22070945cf74f240.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-0f40d706ebc58d78c1f6.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-d086a7e92e744d0c1873.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
 /404/
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </c58bbf60efc9fe246c80b4f60452580755adaaa0-1e2847bb9ebf65c93fe8.js>; rel=preload; as=script
-  Link: </component---src-pages-404-js-e0bd216be6f366095538.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </c58bbf60efc9fe246c80b4f60452580755adaaa0-e7315001672641ecfb46.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-5b3f5d9bc84c71135430.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
 /bachelor/
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </component---src-pages-bachelor-js-2af125d0ae9eaaad2439.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </styles-0ec71dd62c66cb95665c.js>; rel=preload; as=script
+  Link: </component---src-pages-bachelor-js-448087e8da231693bc6f.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/bachelor/page-data.json>; rel=preload; as=fetch; crossorigin
 /cardGame/
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </component---src-pages-card-game-js-650f4640ee8a2563da19.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </styles-0ec71dd62c66cb95665c.js>; rel=preload; as=script
+  Link: </component---src-pages-card-game-js-955c0af81915a464ace8.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/cardGame/page-data.json>; rel=preload; as=fetch; crossorigin
 /dragonrpg/
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </component---src-pages-dragonrpg-js-2c468ab574542d4541ec.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </styles-0ec71dd62c66cb95665c.js>; rel=preload; as=script
+  Link: </component---src-pages-dragonrpg-js-e8d9e2c2a67a508a1d60.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/dragonrpg/page-data.json>; rel=preload; as=fetch; crossorigin
 /footmen/
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </component---src-pages-footmen-js-404fb99f233f62ce8d0b.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </styles-0ec71dd62c66cb95665c.js>; rel=preload; as=script
+  Link: </component---src-pages-footmen-js-4a4fb8f7da8964f9e95e.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/footmen/page-data.json>; rel=preload; as=fetch; crossorigin
 /minutehero/
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </component---src-pages-minutehero-js-4309e8b12c5ce360f407.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </styles-0ec71dd62c66cb95665c.js>; rel=preload; as=script
+  Link: </component---src-pages-minutehero-js-5fbff1b247b422093962.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/minutehero/page-data.json>; rel=preload; as=fetch; crossorigin
 /musicfractals/
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </component---src-pages-musicfractals-js-d753fe9c9cea0d66070c.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </styles-0ec71dd62c66cb95665c.js>; rel=preload; as=script
+  Link: </component---src-pages-musicfractals-js-f28b5d55cbc65d770012.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/musicfractals/page-data.json>; rel=preload; as=fetch; crossorigin
 /musicplatformer/
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </component---src-pages-musicplatformer-js-2990817cd8f7946b286b.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </styles-0ec71dd62c66cb95665c.js>; rel=preload; as=script
+  Link: </component---src-pages-musicplatformer-js-8f82e4c9de2ec72618ad.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/musicplatformer/page-data.json>; rel=preload; as=fetch; crossorigin
 /phobia/
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </component---src-pages-phobia-js-499546b75c113edb8bfb.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </styles-0ec71dd62c66cb95665c.js>; rel=preload; as=script
+  Link: </component---src-pages-phobia-js-880d3914bec2c49a6d54.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/phobia/page-data.json>; rel=preload; as=fetch; crossorigin
 /solitaireexpert/
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </component---src-pages-solitaireexpert-js-313f10cdbb8c66edeb43.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </styles-0ec71dd62c66cb95665c.js>; rel=preload; as=script
+  Link: </component---src-pages-solitaireexpert-js-b2efb87e3974ab53b2fa.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/solitaireexpert/page-data.json>; rel=preload; as=fetch; crossorigin
 /timeraiders/
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </component---src-pages-timeraiders-js-c95d7e783e2bdcce4802.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </styles-0ec71dd62c66cb95665c.js>; rel=preload; as=script
+  Link: </component---src-pages-timeraiders-js-1f79964d4c493839873e.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/timeraiders/page-data.json>; rel=preload; as=fetch; crossorigin
 /turncombat/
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </component---src-pages-turncombat-js-843ee4d876f5533f896b.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </styles-0ec71dd62c66cb95665c.js>; rel=preload; as=script
+  Link: </component---src-pages-turncombat-js-f6bc2fcbe0964b746c88.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/turncombat/page-data.json>; rel=preload; as=fetch; crossorigin
 /404.html
-  Link: </webpack-runtime-52254a6cd160ff2dc4a3.js>; rel=preload; as=script
-  Link: </framework-caaca52af16d464f8089.js>; rel=preload; as=script
-  Link: </app-8e5849a722a7af833de3.js>; rel=preload; as=script
-  Link: </c58bbf60efc9fe246c80b4f60452580755adaaa0-1e2847bb9ebf65c93fe8.js>; rel=preload; as=script
-  Link: </component---src-pages-404-js-e0bd216be6f366095538.js>; rel=preload; as=script
+  Link: </webpack-runtime-d506a490b4cb3162a49c.js>; rel=preload; as=script
+  Link: </framework-8f8cadd211f03ea7e319.js>; rel=preload; as=script
+  Link: </app-7051b2358802a4cf4d8d.js>; rel=preload; as=script
+  Link: </c58bbf60efc9fe246c80b4f60452580755adaaa0-e7315001672641ecfb46.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-5b3f5d9bc84c71135430.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
